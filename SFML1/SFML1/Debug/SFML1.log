@@ -1,0 +1,7 @@
+﻿  mainWindow.cpp
+c:\users\brian r joo\documents\visual studio 2015\projects\sfml1\sfml1\rules.h(5): warning C4005: 'MAX_NUMBER_OF_ITEMS': macro redefinition
+  c:\users\brian r joo\documents\visual studio 2015\projects\sfml1\sfml1\menu.h(4): note: see previous definition of 'MAX_NUMBER_OF_ITEMS'
+c:\users\brian r joo\documents\visual studio 2015\projects\sfml1\sfml1\mainwindow.cpp(19): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\brian r joo\documents\visual studio 2015\projects\sfml1\sfml1\mainwindow.cpp(21): warning C4101: 'event': unreferenced local variable
+  SFML1.vcxproj -> C:\Users\Brian R Joo\Documents\Visual Studio 2015\Projects\SFML1\Debug\SFML1.exe
+  SFML1.vcxproj -> C:\Users\Brian R Joo\Documents\Visual Studio 2015\Projects\SFML1\Debug\SFML1.pdb (Full PDB)
